@@ -1,4 +1,3 @@
-# Global-E-Commerce-Customer-Analytics-Churn-Analysis
 # Global E-Commerce Customer Analytics & Churn Analysis
 
 ## Project Overview
